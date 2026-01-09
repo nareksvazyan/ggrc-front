@@ -1,0 +1,1 @@
+export const imagesUrl = "http://localhost:4050";

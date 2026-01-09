@@ -1,0 +1,61 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <!--  Armenian (hy)  -->
+  <url>
+    <loc>https://ggrcarmenia.am/hy/</loc>
+  </url>
+  <url>
+    <loc>https://ggrcarmenia.am/hy/about-us</loc>
+  </url>
+  <url>
+    <loc>https://ggrcarmenia.am/hy/service</loc>
+  </url>
+  <url>
+    <loc>https://ggrcarmenia.am/hy/team</loc>
+  </url>
+  <url>
+    <loc>https://ggrcarmenia.am/hy/blog</loc>
+  </url>
+  <url>
+    <loc>https://ggrcarmenia.am/hy/contact</loc>
+  </url>
+  <!--  Russian (ru)  -->
+  <url>
+    <loc>https://ggrcarmenia.am/ru/</loc>
+  </url>
+  <url>
+    <loc>https://ggrcarmenia.am/ru/about-us</loc>
+  </url>
+  <url>
+    <loc>https://ggrcarmenia.am/ru/service</loc>
+  </url>
+  <url>
+    <loc>https://ggrcarmenia.am/ru/team</loc>
+  </url>
+  <url>
+    <loc>https://ggrcarmenia.am/ru/blog</loc>
+  </url>
+  <url>
+    <loc>https://ggrcarmenia.am/ru/contact</loc>
+  </url>
+ <!-- English (.am) -->
+ <url>
+  <loc>https://ggrcarmenia.am/en/</loc>
+</url>
+<url>
+  <loc>https://ggrcarmenia.am/en/about-us</loc>
+</url>
+<url>
+  <loc>https://ggrcarmenia.am/en/service</loc>
+</url>
+<url>
+  <loc>https://ggrcarmenia.am/en/team</loc>
+</url>
+<url>
+  <loc>https://ggrcarmenia.am/en/blog</loc>
+</url>
+<url>
+  <loc>https://ggrcarmenia.am/en/contact</loc>
+</url>
+ 
+</urlset> 
