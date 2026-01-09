@@ -1,1 +1,1 @@
-export const imagesUrl = "http://localhost:4050";
+export const imagesUrl = "https://ggrc-backend.onrender.com" ; //55566
