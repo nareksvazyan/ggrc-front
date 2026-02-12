@@ -1,1 +1,1 @@
-export const imagesUrl = "https://ggrc-backend.onrender.com" ; //55566
+export const imagesUrl = "https://ggrc-backend-hr0d.onrender.com" ; //55566
